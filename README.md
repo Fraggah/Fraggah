@@ -5,7 +5,7 @@
 <hr>
 <p>Hi! I'm Silvio!</p>
 <p>Currently I am just a programming student. <br>
-I started this year to make a change in my life. <br>
+I started this year <small>2023</small> to make a change in my life. <br>
 I previously graduated as a music teacher at UNL. <br>
 I am also about to graduate in graphic development also at UNL.</p>
 <p><em>I am completely determined and have the conviction to become a great software developer. Every day's effort will be the fruit of tomorrow!</em></p>
@@ -16,4 +16,17 @@ I am also about to graduate in graphic development also at UNL.</p>
   <li>Digital graphics and animation - UNL (3 pending matters)</li>
   <li>Game Development - UNL (current)</li>
   <li>software engineering - UTN (current)</li>
+</ul>
+<hr>
+<h2>Job</h2>
+<ul>
+  <li>Music Teacher at Municipal Music Institute</li>
+  <li>Private Music Classes</li>
+</ul>
+<hr>
+<h2>Hobies</h2>
+<ul>
+  <li>Guitar and Piano Player</li>
+  <li>Music Production</li>
+  <li>Japanese Student</li>
 </ul>
