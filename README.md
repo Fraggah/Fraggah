@@ -15,7 +15,7 @@ I am also about to graduate in graphic development also at UNL.</p>
   <li>Musical arranger - UNL</li>
   <li>Digital graphics and animation - UNL (3 pending matters)</li>
   <li>Game Development - UNL (current)</li>
-  <li>software engineering - UTN (current)</li>
+  <li>Software Engineering - UTN (current)</li>
 </ul>
 <hr>
 <h2>Job</h2>
