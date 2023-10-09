@@ -3,12 +3,11 @@
 <hr>
 <h1>About Me</h1>
 <hr>
-<p>Hi! I'm Silvio! Actualy </p>
+<p>Hi! I'm Silvio!</p>
 <p>Currently I am just a programming student. <br>
 I started this year to make a change in my life. <br>
 I previously graduated as a music teacher at UNL. <br>
 I am also about to graduate in graphic development also at UNL.</p>
-<br>
 <p>I am completely determined and have the conviction to become a great software developer. Every day's effort will be the fruit of tomorrow!</p>
 <hr>
 <h2>Career</h2>
