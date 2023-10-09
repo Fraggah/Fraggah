@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 🪐 Hello World!! 🪐
+![Banner Github](https://github.com/Fraggah/Fraggah/assets/132927111/6c8eb529-3fa1-4c69-8ed6-89ade33ec8fd)
 <!--
 **Fraggah/Fraggah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
