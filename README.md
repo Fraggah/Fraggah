@@ -8,9 +8,6 @@
 I started this year <small>2023</small> to make a change in my life. <br>
 I previously graduated as a music teacher at UNL. <br>
 I am also about to graduate in graphic development also at UNL.</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <p><em>I am completely determined and have the conviction to become a great software developer. Every day's effort will be the fruit of tomorrow!</em></p>
 <hr>
 <h2>Career</h2>
@@ -33,3 +30,16 @@ I am also about to graduate in graphic development also at UNL.</p>
   <li>Music Production</li>
   <li>Japanese Student</li>
 </ul>
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fraggah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fraggah&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fraggah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<hr>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" href="https://www.youtube.com/channel/UCmY_0TxK9WrAfvZ3ZPHcSQA"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
