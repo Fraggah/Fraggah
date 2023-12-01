@@ -1,6 +1,3 @@
-### 🪐 Hello World!! 🪐
-![Banner Github](https://github.com/Fraggah/Fraggah/assets/132927111/84506c9c-7891-4db9-8bb5-fb9b8217bd0b)
-<hr>
 <h1>About Me</h1>
 <hr>
 <p>Hi! I'm Silvio!</p>
