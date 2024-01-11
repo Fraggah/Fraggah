@@ -47,7 +47,3 @@ I am also about to graduate in graphic development also at UNL.</p>
 </a>
 <br>
 </div>
-<div align="center">
-<br>
-  <img src="https://streak-stats.demolab.com?user=Fraggah&locale=en&theme=codeSTACKr&hide_border=false&border_radius=5" height="215" alt="streak graph"  />
-</div>
