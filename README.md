@@ -18,7 +18,6 @@ I am also about to graduate in graphic development also at UNL.</p>
 <h2>Job</h2>
 <ul>
   <li>Music Teacher at Municipal Music Institute</li>
-  <li>Private Music Classes</li>
 </ul>
 <hr>
 <h2>Hobies</h2>
