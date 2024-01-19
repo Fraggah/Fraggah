@@ -5,7 +5,7 @@
 I started this year <small>2023</small> to make a change in my life. <br>
 I previously graduated as a music teacher at UNL. <br>
 I am also about to graduate in graphic development also at UNL.</p>
-<p><em>I am completely determined and have the conviction to become a great software developer. Every day's effort will be the fruit of tomorrow!</em></p>
+<p><em>I am completely determined and have the conviction to become a great game developer. Every day's effort will be the fruit of tomorrow!</em></p>
 <hr>
 <h2>Career</h2>
 <ul>
