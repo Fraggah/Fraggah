@@ -22,7 +22,7 @@ I am also about to graduate in graphic development also at UNL.</p>
 <hr>
 <h2>Hobies</h2>
 <ul>
-  <li>Guitar and Piano Player</li>
+  <li>Guitar Player</li>
   <li>Music Production</li>
   <li>Japanese Student</li>
 </ul>
