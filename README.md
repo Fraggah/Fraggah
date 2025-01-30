@@ -16,7 +16,7 @@ My background includes a degree in music teaching from UNL and graphic developme
 <hr>
 <h2>Job</h2>
 <ul>
-  <li>Music Teacher at Municipal Music Institute</li>
+  <li>Music Teacher at Music Institute</li>
 </ul>
 <hr>
 <h2>Hobies</h2>
