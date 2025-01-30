@@ -1,11 +1,10 @@
 <h1>About Me</h1>
 <hr>
 <p>Hi! I'm Silvio!</p>
-<p>Currently I am just a programming student. <br>
-I started this year <small>2023</small> to make a change in my life. <br>
-I previously graduated as a music teacher at UNL. <br>
-I am also about to graduate in graphic development also at UNL.</p>
-<p><em>I am completely determined and have the conviction to become a great game developer. Every day's effort will be the fruit of tomorrow!</em></p>
+<p>I'm a game developer specialized in C++ and Unreal Engine. <br>  
+I have experience in multiplayer game networking and dedicated server management using AWS. <br>  
+My background includes a degree in music teaching from UNL and graphic development at UNL.</p>
+<p><em>I love analyzing and deconstructing algorithms to understand their inner workings and explore potential optimizations. Constantly learning and refining my approach to problem-solving is what drives me as a developer.</em></p>
 <hr>
 <h2>Career</h2>
 <ul>
