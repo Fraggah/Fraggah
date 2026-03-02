@@ -31,7 +31,6 @@ I’m building my long-term path toward creating my own game studio while contin
   <li>Game Development – UNL</li>
   <li>Digital Graphics & Animation – UNL</li>
   <li>Music Teaching Degree – UNL</li>
-  <li>Software Engineering – UTN (50% completed - abandoned)</li>
 </ul>
 
 <hr>
