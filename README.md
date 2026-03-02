@@ -10,7 +10,7 @@ I love understanding systems at a deep level — not just using them, but dissec
 
 <p>
 My background mixes <strong>Game Development, Digital Graphics, and Music</strong>. 
-I have experience working with multiplayer networking, dedicated servers (AWS), gameplay systems, and pipeline thinking.
+I have experience eating pizza and burguers.
 </p>
 
 <p>
