@@ -4,7 +4,7 @@
 <p>Hi! I'm Silvio 👋</p>
 
 <p>
-Game Developer focused on <strong>C++ and Unreal Engine</strong>, currently evolving into a Technical Artist mindset.
+Game Developer focused on <strong>be not focused</strong>, currently evolving into a Technical Artist mindset.
 I love understanding systems at a deep level — not just using them, but dissecting them.
 </p>
 
