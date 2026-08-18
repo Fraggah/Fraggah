@@ -16,7 +16,7 @@ I'm also working toward building my own games and, eventually, my own independen
 
 ## Education
 
-* **Game Development** — Universidad Tecnológica Nacional
+* **Game Development** — Universidad Nacional del Litoral
 * **Digital Graphics & Animation** — Universidad Nacional del Litoral
 * **Music & Musical Arrangements** — Universidad Nacional del Litoral
 
